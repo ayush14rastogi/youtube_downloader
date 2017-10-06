@@ -1,2 +1,2 @@
 # youtube_downloader
-Python script to download Youtube Videos
+This is a small python script to download Youtube Videos and it uses pytube.
